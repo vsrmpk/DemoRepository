@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://bpconnect-accp.mendixcloud.com')
+WebUI.navigateToUrl('https://www.google.com/')
 

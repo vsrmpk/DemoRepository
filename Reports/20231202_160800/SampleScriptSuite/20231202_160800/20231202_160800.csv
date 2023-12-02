@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SampleScriptSuite,Chrome 119.0.0.0,test,,2023-12-02 16:08:06,2023-12-02 16:08:21,14.833s,PASSED
+,,,,,,,
+Test Cases/SampleTestCase,Chrome 119.0.0.0,Sample TestCase,Sample TestCase,2023-12-02 16:08:06,2023-12-02 16:08:21,14.205s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-12-02 16:08:07,2023-12-02 16:08:16,8.973s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 119.0.0.0,,,2023-12-02 16:08:16,2023-12-02 16:08:21,4.420s,PASSED

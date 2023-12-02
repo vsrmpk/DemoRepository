@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SampleScriptSuite,,test,,2023-12-02 16:07:05,2023-12-02 16:07:23,18.806s,FAILED
+,,,,,,,
+Test Cases/SampleTestCase,,Sample TestCase,Sample TestCase,2023-12-02 16:07:20,2023-12-02 16:07:23,3.883s,FAILED
+"openBrowser("""")",,,,2023-12-02 16:07:20,2023-12-02 16:07:23,3.852s,FAILED

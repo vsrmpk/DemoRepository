@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SampleScriptSuite" time="14.833" tests="1" failures="0" errors="0">
+   <testsuite name="SampleScriptSuite" tests="1" failures="0" errors="0" time="14.833" skipped="0" timestamp="2023-12-02 16:08:06" hostname="I2829 - IND-CHN-LT12371" id="Test Suites/SampleScriptSuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\I2829\\git\\DemoRepository\\Reports\\20231202_160800\\SampleScriptSuite\\20231202_160800"/>
+         <property name="logFiles" value="C:\\Users\\I2829\\git\\DemoRepository\\Reports\\20231202_160800\\SampleScriptSuite\\20231202_160800\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="I2829 - IND-CHN-LT12371"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 119.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="ed1a1e4f1a2b8f095e284440c4f21f4a"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/SampleTestCase" time="14.205" classname="Test Cases/SampleTestCase" status="PASSED">
+         <system-out><![CDATA[2023-12-02 16:08:06 - [TEST_CASE][PASSED] - Test Cases/SampleTestCase: Test Cases/SampleTestCase
+
+2023-12-02 16:08:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-12-02 16:08:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-12-02 16:08:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-12-02 16:08:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-12-02 16:08:16 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+2023-12-02 16:08:21 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-12-02 16:08:06 - [TEST_SUITE][PASSED] - SampleScriptSuite: Test Cases/SampleTestCase]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
